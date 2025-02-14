@@ -10,7 +10,7 @@
 ✅ **View & Decode Tokens** - Inspect OAuth2 and SAML tokens in real-time.  
 ✅ **Customize Token Claims** - Modify token claims for security testing.  
 ✅ **Register & Modify Applications** - Create and configure Entra ID app registrations.  
-✅ **Test Authentication Flows** - Validate OAuth, OpenID Connect, and SAML flows.  
+✅ **Test Authentication Flows** - Validate OIDC/OAuth and SAML flows.  
 ✅ **Embedded Graph Explorer** - Drill into app configurations via Microsoft Graph API.  
 ✅ **Restore Configurations** - Quickly revert tested apps to their original settings.  
 ✅ **Security & Compliance** - Ensure configurations align with Microsoft best practices.  
