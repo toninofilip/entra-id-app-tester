@@ -1,25 +1,43 @@
-# entra-id-app-tester
+# 🚀 AppConfig²: Entra ID App Configuration & Testing Tool
 
-# 🚀 Entra ID App Testing Tool
-**Easily test & debug Azure AD / Entra ID app registrations, authentication flows, and token decoding.**  
+**Test, Debug, and Optimize Microsoft Entra ID App Registrations**
 
-🔗 **Try the tool (Demo/Signup)**: [Your link here]  
-📖 **Documentation**: [Your Docs or Contact Form]  
+🔗 **Live Demo & More Info**: [appconfig.app](https://appconfig.app)
+📖 **Documentation**: [Visit Docs](https://appconfig.app/docs)
 
-## 🔥 Key Features  
-✅ **App Registration & Management** – Easily create & configure Entra ID apps  
-✅ **OAuth 2.0 & OpenID Connect Testing** – Simulate real authentication flows  
-✅ **Token Decoding & Claims Analysis** – Inspect & verify JWTs  
-✅ **Graph API Integration** – Fetch app details, permissions, and roles  
+## 🔥 Key Features
+✅ **Manage Redirect URIs** - Add or remove URIs for troubleshooting authorization issues.  
+✅ **View & Decode Tokens** - Inspect OAuth2 and SAML tokens in real-time.  
+✅ **Customize Token Claims** - Modify token claims for security testing.  
+✅ **Register & Modify Applications** - Create and configure Entra ID app registrations.  
+✅ **Test Authentication Flows** - Validate OAuth, OpenID Connect, and SAML flows.  
+✅ **Embedded Graph Explorer** - Drill into app configurations via Microsoft Graph API.  
+✅ **Restore Configurations** - Quickly revert tested apps to their original settings.  
+✅ **Security & Compliance** - Ensure configurations align with Microsoft best practices.  
 
-## 🎥 Demo (GIF or Video)  
-🚀 **[Live Demo → appconfig.app](https://appconfig.app)**
+## 🎥 Demo (GIF or Video)
+![Demo](https://yourimagehost.com/demo.gif)
 
-## 🛠️ How It Works  
-1️⃣ **Sign in** to your Entra ID tenant  
-2️⃣ **Select or register an app**  
-3️⃣ **Run authentication tests**  
-4️⃣ **Decode & inspect tokens**  
+## 🛠️ How It Works
+1️⃣ **Sign in** with your Microsoft Entra ID account.  
+2️⃣ **Test & Debug** - Modify app settings, inspect tokens, and analyze configurations.  
+3️⃣ **Restore & Secure** - Revert app settings and ensure compliance.  
+
+## 👥 Who Should Use AppConfig²?
+👨‍💻 **Developers** - Test authentication flows and debug app registrations.  
+🔐 **Security Engineers** - Validate security configurations and permissions.  
+🛠️ **IT Administrators** - Manage Entra ID app registrations efficiently.  
+🎯 **L3 Support Teams** - Troubleshoot complex authentication issues.  
+
+## 🚀 Try It Now
+🔗 **[Live Demo](https://appconfig.app)**  
+
+## 📩 Get In Touch
+For questions or early access, contact us: [Contact Us](https://appconfig.app/contact)
+
+## ⚠️ Disclaimer
+This tool is **not affiliated with or endorsed by Microsoft**. "Entra ID" is a trademark of Microsoft Corporation.
+
 
 ## 📩 Want Early Access?  
-DM me on [LinkedIn](https://linkedin.com/in/yourprofile) or sign up here: [Sign-up link]  
+DM me on [LinkedIn](https://www.linkedin.com/in/tonino-filipovic-7a501b1/) 
