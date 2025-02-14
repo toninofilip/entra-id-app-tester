@@ -13,7 +13,6 @@
 ✅ **Test Authentication Flows** - Validate OIDC/OAuth and SAML flows.  
 ✅ **Embedded Graph Explorer** - Drill into app configurations via Microsoft Graph API.  
 ✅ **Restore Configurations** - Quickly revert tested apps to their original settings.  
-✅ **Security & Compliance** - Ensure configurations align with Microsoft best practices.  
 
 ## 🎥 Demo (GIF or Video)
 ![Demo](https://yourimagehost.com/demo.gif)
