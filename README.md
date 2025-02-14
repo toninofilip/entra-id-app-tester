@@ -31,9 +31,6 @@
 ## 🚀 Try It Now
 🔗 **[Live Demo](https://appconfig.app)**  
 
-## 📩 Get In Touch
-For questions or early access, contact us: (https://appconfig.app/contact)
-
 ## ⚠️ Disclaimer
 This tool is **not affiliated with or endorsed by Microsoft**. "Entra ID" is a trademark of Microsoft Corporation.
 
