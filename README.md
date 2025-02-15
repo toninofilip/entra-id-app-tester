@@ -1,6 +1,6 @@
-# 🚀 AppConfig²: Entra ID App Configuration & Testing Tool
+# 🚀 AppConfig²: App Configuration & Testing Tool
 
-**Test, Debug, and Optimize Microsoft Entra ID App Registrations**
+**Test, Debug, and Optimize Microsoft Entra™ ID App Registrations**
 
 🔗 **Live Demo & More Info**: [appconfig.app](https://appconfig.app)
 <!-- 📖 **Documentation**: [Visit Docs](https://appconfig.app/docs) -->
