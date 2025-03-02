@@ -32,7 +32,7 @@
 🔗 **[Live Demo](https://appconfig.app)**  
 
 ## ⚠️ Disclaimer
-This tool is **not affiliated with or endorsed by Microsoft**. "Entra ID" is a trademark of Microsoft Corporation.
+This tool is **not affiliated with or endorsed by Microsoft**. "Microsoft Entra™ ID" is a trademark of Microsoft Corporation.
 
 ## 📩 Want Early Access?  
 DM me on [LinkedIn](https://www.linkedin.com/in/tonino-filipovic-7a501b1/) 
