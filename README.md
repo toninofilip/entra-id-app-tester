@@ -15,8 +15,6 @@
 ✅ **Embedded Graph Explorer** - Drill into app configurations via Microsoft Graph API.  
 ✅ **Restore Configurations** - Quickly revert tested apps to their original settings.  
 
-## 🎥 Demo (GIF or Video)
-![Demo](https://yourimagehost.com/demo.gif)
 
 ## 🛠️ How It Works
 1️⃣ **Sign in** with your Microsoft Entra ID account.  
