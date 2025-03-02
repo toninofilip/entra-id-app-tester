@@ -4,6 +4,7 @@
 
 🔗 **Live Demo & More Info**: [appconfig.app](https://appconfig.app)
 <!-- 📖 **Documentation**: [Visit Docs](https://appconfig.app/docs) -->
+🔗 **[Live Demo](https://appconfig.app/#demo)**  
 
 ## 🔥 Key Features
 ✅ **Manage Redirect URIs** - Add or remove URIs for troubleshooting authorization issues.  
