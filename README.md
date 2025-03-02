@@ -4,7 +4,7 @@
 
 🔗 **Live Demo & More Info**: [appconfig.app](https://appconfig.app/#demo)
 
-📖 **Documentation**: [Visit Docs](https://appconfig.app/docs)
+📖 **Documentation**: [Visit Docs](https://appconfig.app/#)
 <!-- 🔗 **[Live Demo](https://appconfig.app/#demo)** -->  
 
 ## 🔥 Key Features
