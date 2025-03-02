@@ -2,9 +2,10 @@
 
 **Test, Debug, and Optimize Microsoft Entra™ ID App Registrations**
 
-🔗 **Live Demo & More Info**: [appconfig.app](https://appconfig.app)
-<!-- 📖 **Documentation**: [Visit Docs](https://appconfig.app/docs) -->
-🔗 **[Live Demo](https://appconfig.app/#demo)**  
+🔗 **Live Demo & More Info**: [appconfig.app](https://appconfig.app/#demo)
+
+📖 **Documentation**: [Visit Docs](https://appconfig.app/docs)
+<!-- 🔗 **[Live Demo](https://appconfig.app/#demo)** -->  
 
 ## 🔥 Key Features
 ✅ **Manage Redirect URIs** - Add or remove URIs for troubleshooting authorization issues.  
