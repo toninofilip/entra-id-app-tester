@@ -2,10 +2,8 @@
 
 **Test, Debug, and Optimize Microsoft Entra™ ID App Registrations**
 
-🔗 **Live Demo & More Info**: [appconfig.app](https://appconfig.app/#demo)
-
-📖 **Documentation**: [Visit Docs](https://appconfig.app/#)
-<!-- 🔗 **[Live Demo](https://appconfig.app/#demo)** -->  
+🔗 **Live Demo & More Info**: [appconfig.app](https://appconfig.app)
+<!-- 📖 **Documentation**: [Visit Docs](https://appconfig.app/docs) -->
 
 ## 🔥 Key Features
 ✅ **Manage Redirect URIs** - Add or remove URIs for troubleshooting authorization issues.  
@@ -16,6 +14,8 @@
 ✅ **Embedded Graph Explorer** - Drill into app configurations via Microsoft Graph API.  
 ✅ **Restore Configurations** - Quickly revert tested apps to their original settings.  
 
+## 🎥 Demo (GIF or Video)
+![Demo](https://yourimagehost.com/demo.gif)
 
 ## 🛠️ How It Works
 1️⃣ **Sign in** with your Microsoft Entra ID account.  
@@ -32,10 +32,10 @@
 🔗 **[Live Demo](https://appconfig.app)**  
 
 ## ⚠️ Disclaimer
-This tool is **not affiliated with or endorsed by Microsoft**. "Microsoft Entra™ ID" is a trademark of Microsoft Corporation.
+This tool is **not affiliated with or endorsed by Microsoft**. "Entra ID" is a trademark of Microsoft Corporation.
 
 ## 📩 Want Early Access?  
-DM me on [LinkedIn](https://www.linkedin.com/in/tonino-filipovic-7a501b1/) 
+**Contact us through our website [appconfig.app](https://appconfig.app) for early access or questions!**
 
 ---
 
