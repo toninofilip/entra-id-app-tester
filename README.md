@@ -15,7 +15,7 @@
 ✅ **Restore Configurations** - Quickly revert tested apps to their original settings.  
 
 ## 🎥 Demo (GIF or Video)
-![Demo](https://yourimagehost.com/demo.gif)
+**View demos through our website [appconfig.app](https://appconfig.app)!**
 
 ## 🛠️ How It Works
 1️⃣ **Sign in** with your Microsoft Entra ID account.  
